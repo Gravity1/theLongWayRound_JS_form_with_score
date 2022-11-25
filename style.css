@@ -1,0 +1,11 @@
+h1, p {
+  font-family: Lato;
+}
+.options{
+  display:flex;
+  flex-direction: column;
+
+}
+.totalScoreDiv{
+  float: right;
+}
